@@ -1,0 +1,18 @@
+[
+  {
+    "id": "linux-day-ifs-2026",
+    "titulo": "Linux Day IFS - Edição 2026",
+    "data": "2026-11-20",
+    "local": "Campus Tobias Barreto",
+    "tags": ["Tecnologia", "Inscrições Abertas"],
+    "descricao": "Evento voltado à comunidade de software livre, com palestras e oficinas práticas."
+  },
+  {
+    "id": "mostra-ifmaker-2026",
+    "titulo": "Mostra Tecnológica IFMAKER",
+    "data": "2026-12-05",
+    "local": "Campus Tobias Barreto",
+    "tags": ["Submissões Abertas"],
+    "descricao": "Exposição de projetos de iniciação científica e protótipos desenvolvidos pelos discentes."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pibic-2026-2027",
+    "categoria": "PIBIC 2026/2027",
+    "titulo": "Programa Institucional de Bolsas de Iniciação Científica",
+    "descricao": "Fomento para projetos de pesquisa aplicada no IFS.",
+    "orgao": "IFS - PROPEX",
+    "status": "aberto",
+    "encerramento": "2026-11-15",
+    "link": "https://www.ifs.edu.br/propex"
+  },
+  {
+    "id": "fapitec-eventos-cientificos",
+    "categoria": "FAPITEC-SE",
+    "titulo": "Apoio à Realização de Eventos Científicos",
+    "descricao": "Financiamento para estruturação de semanas acadêmicas e jornadas de pesquisa em Sergipe.",
+    "orgao": "FAPITEC-SE",
+    "status": "em_breve",
+    "abertura": "2026-12-01",
+    "link": "https://fapitec.se.gov.br"
+  },
+  {
+    "id": "pibiti-2026",
+    "categoria": "PIBITI 2026",
+    "titulo": "Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação",
+    "descricao": "Fomento para projetos de inovação tecnológica com potencial de transferência para o setor produtivo.",
+    "orgao": "IFS - PROPEX",
+    "status": "aberto",
+    "encerramento": "2026-12-10",
+    "link": "https://www.ifs.edu.br/propex"
+  }
+]
