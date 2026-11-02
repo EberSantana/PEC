@@ -7,7 +7,8 @@ export default function Editais() {
       <section className="mb-8">
         <h2 className="text-3xl font-bold text-slate-800 mb-2">Editais de Fomento</h2>
         <p className="text-slate-600">
-          Editais de agências de fomento e programas internos do IFS, mapeados pela equipe do COPI.
+          Editais da PROPEX/IFS (pesquisa e extensão). Datas e status exatos devem ser
+          confirmados no edital oficial — clique no card para abrir.
         </p>
       </section>
 

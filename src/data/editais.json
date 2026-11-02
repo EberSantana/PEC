@@ -1,32 +1,112 @@
 [
   {
-    "id": "pibic-2026-2027",
-    "categoria": "PIBIC 2026/2027",
-    "titulo": "Programa Institucional de Bolsas de Iniciação Científica",
-    "descricao": "Fomento para projetos de pesquisa aplicada no IFS.",
-    "orgao": "IFS - PROPEX",
-    "status": "aberto",
-    "encerramento": "2026-11-15",
-    "link": "https://www.ifs.edu.br/propex"
+    "id": "edital-33-2026",
+    "numero": "33/2026/DIREX/PROPEX/IFS/REITORIA",
+    "categoria": "Extensão",
+    "titulo": "Carta-convite para fomento a projetos de extensão dos NEABI — Novembro Negro",
+    "descricao": "Fomento a projetos de extensão dos Núcleos de Estudos Afro-brasileiros e Indígenas (NEABI).",
+    "orgao": "PROPEX/DIREX",
+    "status": "publicado",
+    "publicacao": "2026-10-22",
+    "link": "https://www.ifs.edu.br/editais-propex/2026/13013-extensao-edital-n-33-2026-direx-propex-ifs-reitoria-carta-convite-para-fomento-a-projetos-de-extensao-dos-nucleos-de-estudos-afro-afro-brasileiros-e-indigenas-neabi-novembro-negro.html"
   },
   {
-    "id": "fapitec-eventos-cientificos",
-    "categoria": "FAPITEC-SE",
-    "titulo": "Apoio à Realização de Eventos Científicos",
-    "descricao": "Financiamento para estruturação de semanas acadêmicas e jornadas de pesquisa em Sergipe.",
-    "orgao": "FAPITEC-SE",
-    "status": "em_breve",
-    "abertura": "2026-12-01",
-    "link": "https://fapitec.se.gov.br"
+    "id": "edital-32-2026",
+    "numero": "32/2026/DPP/PROPEX/IFS",
+    "categoria": "Pesquisa",
+    "titulo": "PIPP — Programa Institucional de Pesquisa e Produtividade",
+    "descricao": "Edital do Programa Institucional de Pesquisa e Produtividade (PIPP).",
+    "orgao": "PROPEX/DPP",
+    "status": "publicado",
+    "publicacao": "2026-10-19",
+    "link": "https://www.ifs.edu.br/editais-propex/2026/13010-pesquisa-edital-32-2026-dpp-propex-ifs-pipp.html"
   },
   {
-    "id": "pibiti-2026",
-    "categoria": "PIBITI 2026",
-    "titulo": "Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação",
-    "descricao": "Fomento para projetos de inovação tecnológica com potencial de transferência para o setor produtivo.",
-    "orgao": "IFS - PROPEX",
-    "status": "aberto",
-    "encerramento": "2026-12-10",
-    "link": "https://www.ifs.edu.br/propex"
+    "id": "edital-26-2026",
+    "numero": "26/2026/PROPEX",
+    "categoria": "Extensão",
+    "titulo": "Programa Nacional Mulheres Mil — edital simplificado de docentes (cadastro de reserva)",
+    "descricao": "Seleção simplificada de docentes, cadastro de reserva, para o Programa Nacional Mulheres Mil.",
+    "orgao": "PROPEX",
+    "status": "publicado",
+    "publicacao": "2026-10-01",
+    "link": "https://www.ifs.edu.br/editais-propex/2026/12988-edital-n-26-2026-propex-programa-nacional-mulheres-mil-edital-simplificado-de-docentes-cadastro-de-reserva.html"
+  },
+  {
+    "id": "edital-24-2026",
+    "numero": "24/2026/IFS/PROPEX/DIREX/EGRERQ",
+    "categoria": "Extensão",
+    "titulo": "Processo seletivo simplificado — Curso de Aperfeiçoamento em Educação e Gestão para as Relações Étnico-Raciais",
+    "descricao": "Seleção de bolsista cursista para o Curso de Aperfeiçoamento em Educação e Gestão para as Relações Étnico-Raciais.",
+    "orgao": "PROPEX/DIREX/EGRERQ",
+    "status": "cancelado",
+    "publicacao": "2026-09-23",
+    "link": "https://www.ifs.edu.br/editais-propex/2026/12917-extensao-edital-n-24-2026-ifs-propex-direx-egrerq-processo-seletivo-simplificado-para-bolsista-do-curso-de-aperfeicoamento-em-educacao-e-gestao-para-relacoes-etnico-raciais.html"
+  },
+  {
+    "id": "edital-31-2026",
+    "numero": "31/2026/DPP/PROPEX/IFS",
+    "categoria": "Pesquisa",
+    "titulo": "Fomento à pesquisa — Campus Estância (recursos de emenda parlamentar)",
+    "descricao": "Edital de fomento à pesquisa no Campus Estância, com recursos de emenda parlamentar (código SIOP nº 43440006).",
+    "orgao": "PROPEX/DPP",
+    "status": "publicado",
+    "publicacao": "2026-09-22",
+    "link": "https://www.ifs.edu.br/editais-propex/2026/12974-pesquisa-edital-31-2026-dpp-propex-ifs-campus-estancia.html"
+  },
+  {
+    "id": "edital-30-2026",
+    "numero": "30/2026/DPP/PROPEX/IFS",
+    "categoria": "Pesquisa",
+    "titulo": "FEICOM — Feira de Iniciação Científica e Mostra Tecnológica",
+    "descricao": "Edital relacionado à FEICOM, feira de iniciação científica e mostra tecnológica do IFS.",
+    "orgao": "PROPEX/DPP",
+    "status": "publicado",
+    "publicacao": "2026-09-17",
+    "link": "https://www.ifs.edu.br/editais-propex/2026/12968-pesquisa-edital-30-2026-dpp-propex-ifs-feicom.html"
+  },
+  {
+    "id": "edital-29-2026",
+    "numero": "29/2026/DPP/PROPEX/IFS",
+    "categoria": "Pesquisa",
+    "titulo": "Diversidade na Ciência",
+    "descricao": "Edital de fomento a projetos de pesquisa com foco em diversidade na ciência.",
+    "orgao": "PROPEX/DPP",
+    "status": "publicado",
+    "publicacao": "2026-09-17",
+    "link": "https://www.ifs.edu.br/editais-propex/2026/12967-pesquisa-edital-29-2026-dpp-propex-ifs-diversidade-na-ciencia.html"
+  },
+  {
+    "id": "edital-28-2026",
+    "numero": "28/2026/DPP/PROPEX/IFS",
+    "categoria": "Pesquisa",
+    "titulo": "PIALAB/IFS — Programa Institucional de Apoio a Laboratórios",
+    "descricao": "Edital do Programa Institucional de Apoio a Laboratórios (PIALAB/IFS).",
+    "orgao": "PROPEX/DPP",
+    "status": "publicado",
+    "publicacao": "2026-09-17",
+    "link": "https://www.ifs.edu.br/editais-propex/2026/12966-pesquisa-edital-28-2026-dpp-propex-ifs-pialab-ifs.html"
+  },
+  {
+    "id": "edital-23-2026",
+    "numero": "23/2026/IFS/PROPEX/DIREX/EGRERQ",
+    "categoria": "Extensão",
+    "titulo": "Processo seletivo simplificado de bolsista — EGRERQ",
+    "descricao": "Seleção de bolsista para o Curso de Aperfeiçoamento em Educação e Gestão para Relações Étnico-Raciais (EGRERQ).",
+    "orgao": "PROPEX/DIREX/EGRERQ",
+    "status": "publicado",
+    "publicacao": "2026-08-24",
+    "link": "https://www.ifs.edu.br/editais-propex/2026/12891-extensao-edital-n-23-2026-ifs-propex-direx-egrerq-processo-seletivo-simplificado-para-bolsista-do-curso-de-aperfeicoamento-em-educacao-e-gesta0-para-relacoes-etnico-raciais-egrerq.html"
+  },
+  {
+    "id": "edital-22-2026",
+    "numero": "22/2026/DIREX/PROPEX/IFS",
+    "categoria": "Extensão",
+    "titulo": "Chamada pública RENAFOR — cursos de formação via carta-convite às IFES",
+    "descricao": "Seleção de projetos financiados por carta-convite às Instituições Federais de Educação Superior (IFES) para oferta de cursos de formação no âmbito da RENAFOR.",
+    "orgao": "PROPEX/DIREX",
+    "status": "publicado",
+    "publicacao": "2026-08-21",
+    "link": "https://www.ifs.edu.br/editais-propex/2026/12890-extensao-edital-22-2026-direx-propex-ifs-chamada-publica-para-selecao-de-projetos-financiados-por-carta-convite-as-instituicoes-federais-de-educacao-superior-ifes-para-oferta-de-cursos-de-formacao-no-ambito-da-renafor.html"
   }
 ]
