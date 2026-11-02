@@ -1,7 +1,7 @@
 import { formatDateShort } from '../../utils/formatDate';
 
 export default function EventoCard({ evento }) {
-  const { titulo, data, local, tags, descricao } = evento;
+  const { titulo, data, local, tags, descricao, link } = evento;
   const { dia, mes } = formatDateShort(data);
 
   return (
@@ -11,7 +11,13 @@ export default function EventoCard({ evento }) {
         <span className="text-2xl font-black text-if-green">{dia}</span>
       </div>
       <div>
-        <h4 className="font-bold text-slate-800">{titulo}</h4>
+        {link ? (
+          <a href={link} target="_blank" rel="noreferrer" className="font-bold text-slate-800 hover:text-if-green hover:underline">
+            {titulo}
+          </a>
+        ) : (
+          <h4 className="font-bold text-slate-800">{titulo}</h4>
+        )}
         <p className="text-sm text-slate-600 mt-1">{local}</p>
         {descricao && <p className="text-sm text-slate-500 mt-1">{descricao}</p>}
         <div className="mt-2 flex gap-2 flex-wrap">

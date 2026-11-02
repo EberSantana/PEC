@@ -9,7 +9,7 @@ export default function Home() {
     .filter((e) => e.status !== 'cancelado')
     .sort((a, b) => b.publicacao.localeCompare(a.publicacao))
     .slice(0, 2);
-  const proximosEventos = eventos.slice(0, 2);
+  const proximosEventos = [...eventos].sort((a, b) => a.data.localeCompare(b.data)).slice(0, 2);
 
   return (
     <>

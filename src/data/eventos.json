@@ -14,5 +14,32 @@
     "local": "Campus Tobias Barreto",
     "tags": ["Submissões Abertas"],
     "descricao": "Exposição de projetos de iniciação científica e protótipos desenvolvidos pelos discentes."
+  },
+  {
+    "id": "sbrc-2026",
+    "titulo": "SBRC 2026 - 44º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+    "data": "2026-05-25",
+    "local": "Praia do Forte, BA",
+    "tags": ["Tecnologia", "Nacional", "SBC"],
+    "descricao": "Principal evento nacional da área de redes de computadores e sistemas distribuídos. 25 a 29 de maio de 2026.",
+    "link": "https://sbrc.sbc.org.br/2026/en/home/"
+  },
+  {
+    "id": "csbc-2026",
+    "titulo": "CSBC 2026 - 46º Congresso da Sociedade Brasileira de Computação",
+    "data": "2026-07-19",
+    "local": "Gramado, RS",
+    "tags": ["Tecnologia", "Nacional", "SBC"],
+    "descricao": "Maior congresso de computação da América Latina, reunindo dezenas de eventos satélite. 19 a 23 de julho de 2026.",
+    "link": "https://csbc.sbc.org.br/2026/"
+  },
+  {
+    "id": "sbseg-2026",
+    "titulo": "SBSeg 2026 - XXVI Simpósio Brasileiro de Cibersegurança",
+    "data": "2026-09-01",
+    "local": "Armação dos Búzios, RJ",
+    "tags": ["Tecnologia", "Segurança da Informação", "Nacional", "SBC"],
+    "descricao": "Principal evento nacional de segurança da informação e cibersegurança. 1 a 4 de setembro de 2026.",
+    "link": "https://www.sbseg2026.uff.br/"
   }
 ]
