@@ -2,6 +2,9 @@
 
 O **PEC** é uma plataforma desenvolvida para pesquisar, mapear e fomentar a realização de eventos científicos no âmbito dos Institutos Federais (Sergipe e RMS).
 
+## 🔗 Link de Acesso
+https://EberSantana.github.io/PEC/
+
 ## 🎯 Objetivo
 Disseminar o conhecimento científico produzido por docentes e discentes, incentivar a iniciação científica e posicionar os campi como polos produtores de inovação.
 
