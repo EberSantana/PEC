@@ -1,0 +1,62 @@
+[
+  {
+    "id": "vitrine-tec-01",
+    "categoria": "Tecnologia",
+    "titulo": "Exemplo: Sistema de Conselho de Classe Digital",
+    "tipo": "Projeto de Extensão",
+    "curso": "Técnico em Desenvolvimento de Sistemas",
+    "descricao": "Modelo de card para projetos da área de Tecnologia — será substituído por trabalhos reais cadastrados pelos docentes e discentes.",
+    "autor": "A definir",
+    "link": "#"
+  },
+  {
+    "id": "vitrine-tec-02",
+    "categoria": "Tecnologia",
+    "titulo": "Exemplo: Aplicativo de monitoramento ambiental",
+    "tipo": "Iniciação Científica",
+    "curso": "Técnico em Desenvolvimento de Sistemas",
+    "descricao": "Modelo de card para projetos da área de Tecnologia — será substituído por trabalhos reais cadastrados pelos docentes e discentes.",
+    "autor": "A definir",
+    "link": "#"
+  },
+  {
+    "id": "vitrine-adm-01",
+    "categoria": "Administração",
+    "titulo": "Exemplo: Plano de negócios para empresa júnior",
+    "tipo": "Projeto de Extensão",
+    "curso": "Técnico em Administração",
+    "descricao": "Modelo de card para projetos da área de Administração — será substituído por trabalhos reais cadastrados pelos docentes e discentes.",
+    "autor": "A definir",
+    "link": "#"
+  },
+  {
+    "id": "vitrine-adm-02",
+    "categoria": "Administração",
+    "titulo": "Exemplo: Pesquisa de mercado local",
+    "tipo": "Artigo",
+    "curso": "Técnico em Administração",
+    "descricao": "Modelo de card para projetos da área de Administração — será substituído por trabalhos reais cadastrados pelos docentes e discentes.",
+    "autor": "A definir",
+    "link": "#"
+  },
+  {
+    "id": "vitrine-com-01",
+    "categoria": "Comércio",
+    "titulo": "Exemplo: Estratégia de vendas para pequenos negócios",
+    "tipo": "Projeto de Extensão",
+    "curso": "Técnico em Comércio",
+    "descricao": "Modelo de card para projetos da área de Comércio — será substituído por trabalhos reais cadastrados pelos docentes e discentes.",
+    "autor": "A definir",
+    "link": "#"
+  },
+  {
+    "id": "vitrine-com-02",
+    "categoria": "Comércio",
+    "titulo": "Exemplo: Análise de logística de distribuição",
+    "tipo": "TCC",
+    "curso": "Técnico em Comércio",
+    "descricao": "Modelo de card para projetos da área de Comércio — será substituído por trabalhos reais cadastrados pelos docentes e discentes.",
+    "autor": "A definir",
+    "link": "#"
+  }
+]
